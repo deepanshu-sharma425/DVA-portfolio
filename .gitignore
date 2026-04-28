@@ -1,0 +1,7 @@
+.agents/
+.amazonq/
+.claude/
+skills/
+skills-lock.json
+node_modules/
+dist/
