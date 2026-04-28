@@ -1,49 +1,68 @@
-# [YOUR NAME]
-[City, State, Zip] | [Phone Number]
-[Email Address] | [LinkedIn Profile URL] | [Portfolio/GitHub URL]
+# Dikshant Jangra
+
++91 8950625090 | dikshant.jangra2024@nst.rishihood.edu.in
+[LinkedIn](https://www.linkedin.com/in/dikshantjangra/) | [GitHub](https://github.com/DikshantJangra) | [Portfolio](https://dikshantjangra.me) | [Tableau Public](https://public.tableau.com/app/profile/dikshantjangra)
+
+---
 
 ## PROFESSIONAL SUMMARY
-Results-driven **Data Visualization Analyst** with [Number] years of experience transforming complex datasets into actionable business insights. Expert in designing interactive dashboards, storytelling through data, and implementing accessibility-first visualization standards. Proven track record of increasing operational efficiency by [X]% through optimized data reporting and insight-driven visualization strategies that drive executive decision-making.
+
+Data & Visual Analytics enthusiast with hands-on experience building end-to-end analytics pipelines, interactive dashboards, and data-driven web applications. Skilled in Tableau, Python (Pandas, NumPy), SQL, and React-based data visualization. Proven ability to transform raw, messy datasets into clean, insight-rich narratives that drive decisions. Currently pursuing B.Tech in AI at Newton School of Technology (GPA: 8.68/10).
+
+---
 
 ## CORE SKILLS
-*   **Data Visualization:** Tableau (LOD Expressions, Parameter Actions), Power BI (DAX, Power Query), D3.js, React-Vis, Plotly, Seaborn, Matplotlib, Highcharts
-*   **Data Storytelling & Design:** Information Architecture, Color Theory (Colorblind-Safe Palettes), Typography for Data, "Scrollytelling," Dashboard UI/UX, Chart Selection Optimization
-*   **Data Analysis & Programming:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, BigQuery), R (ggplot2, Shiny), SAS
-*   **Databases & Big Data:** Snowflake, Amazon Redshift, Google BigQuery, Spark, ETL Pipeline Development
-*   **Business Intelligence:** KPI Framework Development, Stakeholder Management, Automated Reporting, Data Governance, A/B Test Visualization
 
-## PROFESSIONAL EXPERIENCE
-**[Current/Most Recent Company Name]** | [City, State]
-**Senior Data Visualization Analyst** | [Month, Year] – Present
-*   Led the migration of legacy reports to a centralized Tableau ecosystem, leveraging **LOD expressions and parameter actions** to reduce manual reporting overhead by **[X]%**.
-*   Implemented **accessibility-first design standards** across all corporate dashboards, ensuring WCAG compliance and 100% readability for colorblind stakeholders.
-*   Developed high-impact "Executive Cockpits" that translated complex operational metrics into **insight-driven narratives**, facilitating a **$[X]M budget reallocation** based on real-time data.
-*   Optimized dashboard performance by redesigning data models and implementing extract filters, improving load times by **[X]%** for large-scale datasets (100M+ records).
-*   Established a "Data Viz Center of Excellence," mentoring [Number] junior analysts on best practices in **reducing chart junk** and maximizing data-ink ratios.
+- **Data Visualization:** Tableau (KPI dashboards, trend analysis, data storytelling), Pure SVG/CSS charts, React-based viz
+- **Data Analysis & Wrangling:** Python (Pandas, NumPy), SQL (PostgreSQL, MySQL), Excel (advanced transformations, pivot tables)
+- **Programming:** Python, JavaScript/TypeScript, SQL, HTML/CSS
+- **Tools & Platforms:** Tableau Public, Jupyter Notebook, Git/GitHub, Figma, Postman, Supabase
+- **Frameworks:** React, Next.js, Node.js, Express.js, Tailwind CSS
+- **Other:** EDA pipelines, ETL workflows, dashboard UI/UX, data cleaning & normalization
 
-**[Previous Company Name]** | [City, State]
-**Data Analyst / Visualization Specialist** | [Month, Year] – [Month, Year]
-*   Designed interactive Power BI dashboards using **DAX and Power Query** to provide real-time visibility into global sales performance, identifying **$[X]K in untapped revenue** opportunities.
-*   Created custom visualization components using **Python (Plotly/Dash)** for specialized scientific data, improving data exploration capabilities for R&D teams by **[X]%**.
-*   Conducted deep-dive exploratory data analysis (EDA) to identify churn patterns, visualizing insights through **Sankey diagrams and Cohort Analysis** that informed a successful customer retention strategy.
-*   Automated ETL processes using SQL and Python, ensuring daily data refreshes and reducing report latency from 24 hours to **near real-time**.
+---
 
 ## TECHNICAL PROJECTS
-**[Project Name: e.g., Interactive Global Climate Impact Tracker]** | [Link to Project]
-*   Engineered a full-stack data visualization application using **D3.js and React**, featuring interactive geospatial maps and temporal trend analysis.
-*   Implemented custom tooltip systems and dynamic filtering to allow users to drill down into [Specific Data] with **zero latency**.
-*   Received "Top Data Visualization" award at [Conference/Event] for exceptional clarity and narrative flow.
 
-**[Project Name: e.g., Financial Market Sentiment & Correlation Engine]** | [Link to Project]
-*   Built a real-time sentiment analysis engine visualizing the correlation between social media trends and stock movements using **Plotly and Flask**.
-*   Utilized **Seaborn and Matplotlib** for advanced statistical plotting, including correlation matrices and distribution analysis to validate model accuracy.
+**Amazon Sales Intelligence — Tableau Market Intelligence Dashboard** | [Tableau Public](https://public.tableau.com/app/profile/dikshant.jangra)
+- Designed and published an end-to-end Tableau dashboard performing KPI analysis and multi-dimensional trend analysis on Amazon sales data
+- Built calculated fields and filters to surface revenue trends, category-level performance, and regional breakdowns for actionable business insights
+- Applied data storytelling principles — clear chart selection, color hierarchy, and annotation — to make insights scannable in under 30 seconds
+- Demonstrated proficiency in connecting, transforming, and visualizing structured retail data entirely within Tableau
+
+**CleanThisData — Advanced Excel Data Cleaning & Analytics** | [GitHub](https://github.com/DikshantJangra/CleanThisData)
+- Built a comprehensive Excel-based data cleaning and analytics pipeline handling complex transformations including deduplication, null imputation, type normalization, and outlier detection
+- Developed multi-layer dashboards with pivot tables, slicers, and conditional formatting to surface KPIs and trend summaries from raw, unstructured datasets
+- Documented a repeatable data cleaning methodology applicable to real-world messy data scenarios in business and research contexts
+
+**DVA-Oriented Portfolio** | [Live](https://dikshantjangra.me) | [GitHub](https://github.com/DikshantJangra/dvaOrientedPortfolio)
+- Built a GitHub-profile-style data portfolio in React with zero external chart libraries — SVG contribution heatmap (52×7 grid) and animated CSS bar charts from scratch
+- Implemented GitHub Dark Theme design system with smooth load animations and fully responsive layout
+
+**HopeRxPharma — Open Source Pharmacy Management SaaS** | [GitHub](https://github.com/DikshantJangra/HopeRxPharma)
+- Full-stack SaaS platform (React, Next.js, PostgreSQL, Express.js) actively used by pharmacists; implemented data dashboards for inventory and sales tracking
+
+---
+
+## INTERNSHIPS
+
+**Team Lead — Software Development Engineer** | AgroEdge | April 2025 – July 2025 | Remote
+- Led frontend development of an early-stage Agri-Tech platform; built data-driven UI components using Chart.js and PostgreSQL-backed analytics views
+- Managed team debugging, code reviews, and delivery of a scalable, responsive platform (React, TypeScript, Supabase, Tailwind CSS)
+
+**Freelance Developer** | Upwork | August 2025 – October 2025 | Remote
+- Delivered custom client-focused web solutions; built client management workflows and data-driven interfaces
+
+---
 
 ## EDUCATION
-**[Degree Name, e.g., B.S. in Data Science / Computer Science]**
-[University Name], [City, State] | [Year of Graduation]
-*   **Relevant Coursework:** Statistical Modeling, Database Management, UI/UX Design for Data, Machine Learning.
 
-## CERTIFICATIONS
-*   Tableau Desktop Specialist / Power BI Data Analyst Associate
-*   Google Data Analytics Professional Certificate
-*   Python for Data Science (IBM)
+**Bachelor of Technology — Artificial Intelligence** | 2024 – 2028
+Newton School of Technology, Rishihood University | GPA: 8.68 / 10.0
+
+---
+
+## EXTRA-CURRICULAR
+
+- Event Coordinator, DAMRU Fest | Volunteer, Isha Yoga | Member, Public Policy Club
+- 350+ problems solved on LeetCode | Open Source Contributor

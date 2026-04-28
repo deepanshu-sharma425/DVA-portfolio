@@ -1,5 +1,5 @@
 import React from 'react';
-import { LocationIcon, LinkIcon, GHIcon, LCIcon, LinkedInIcon, StarIcon, ForkIcon, RepoIcon } from './Icons';
+import { LocationIcon, LinkIcon, GHIcon, LCIcon, LinkedInIcon, TableauIcon, StarIcon, ForkIcon, RepoIcon } from './Icons';
 
 const skills = ['Python','SQL (BigQuery)','Tableau','Power BI','Looker Studio','Pandas','NumPy','Excel','Statistical Analysis','EDA','React','Node.js'];
 
@@ -7,6 +7,7 @@ const links = [
   { icon: <LinkIcon />, label: 'https://dikshantjangra.me', href: 'https://dikshantjangra.me' },
   { icon: <LinkedInIcon />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/dikshantjangra/' },
   { icon: <GHIcon />, label: 'DikshantJangra', href: 'https://github.com/DikshantJangra' },
+  { icon: <TableauIcon />, label: 'Tableau Public', href: 'https://public.tableau.com/app/profile/dikshantjangra/vizzes' },
   { icon: <LCIcon />, label: 'LeetCode', href: 'https://leetcode.com/u/DikshantJangra' },
 ];
 

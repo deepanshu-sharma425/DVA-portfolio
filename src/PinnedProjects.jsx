@@ -5,12 +5,15 @@ import { GoRocket } from "react-icons/go";
 
 const pins = [
   {
-    name: 'CleanThisData',
+    name: 'E-commerce-Customer-Churn-Analysis',
     url: 'https://github.com/DikshantJangra/CleanThisData',
-    desc: 'Advanced Excel Data Cleaning & Analytics project — featuring complex data transformation, automated cleaning workflows, and interactive dashboards to reveal hidden trends and insights.',
-    lang: 'Excel', langColor: '#217346',
+    desc: 'End-to-end Tableau data analysis project uncovering churn patterns across 50,000 customer records — builds KPIs, performs statistical analysis, and delivers interactive dashboards with actionable retention insights.',
+    lang: 'Tableau', langColor: '#E97627',
     stars: 2, forks: 2,
-    demo: { label: 'Excel', url: 'https://github.com/DikshantJangra/CleanThisData' },
+    demos: [
+      { label: 'GitHub', url: 'https://github.com/DikshantJangra/CleanThisData' },
+      { label: 'Demo', url: 'https://docs.google.com/spreadsheets/d/1jypvW5yaTOvDCb12l3g3hzA_vk0ajBjvZMlo82fRdmw/edit?gid=1432256275#gid=1432256275' },
+    ],
   },
   {
     name: 'PitLane',
@@ -18,7 +21,9 @@ const pins = [
     desc: 'In the high-stakes world of Formula 1, races are often won or lost in the pit lane rather than on the track. This project analyzes 70+ years of F1 data to identify the "Golden Window" for pit strategy and track position retention.',
     lang: 'Python', langColor: '#3572A5',
     stars: 0,
-    demo: { label: 'Tableau', url: 'https://genaicapstone2.streamlit.app' },
+    demos: [
+      { label: 'Tableau', url: 'https://public.tableau.com/app/profile/dikshantjangra/viz/F1PitLaneDashboard3_Harshit_17774048067430/DriverSkillIntelligenceDecouplingPerformancefromMachinery19502017?publish=yes' },
+    ],
   },
   {
     name: 'StudentHealthAssessment360',
@@ -26,15 +31,15 @@ const pins = [
     desc: 'End-to-end data cleaning and EDA pipeline using Pandas and NumPy, developed as a robust data foundation for an Agentic AI system specializing in student health analytics.',
     lang: 'Jupyter Notebook', langColor: '#DA5B0B',
     stars: 1,
-    demo: { label: 'Repository', url: 'https://github.com/DikshantJangra/StudentHealthAssessment360' },
+    demos: [{ label: 'Repository', url: 'https://github.com/DikshantJangra/StudentHealthAssessment360' }],
   },
   {
-    name: 'Amazon-Sales-Intelligence',
-    url: 'https://public.tableau.com/app/profile/dikshant.jangra',
-    desc: 'Comprehensive Tableau dashboarding project analyzing Amazon Electronics sales data — featuring dynamic KPI tracking, univariate/bivariate analysis, and executive-level storytelling to drive market strategy.',
+    name: 'Uber-Analysis-Dashboard',
+    url: 'https://public.tableau.com/app/profile/dikshantjangra/viz/UberAnalysisDashboard_17774044073330/Univariateanalysis?publish=yes',
+    desc: 'An interactive Tableau dashboard analyzing Uber ride data — monitors trip demand, revenue trends, and peak usage hours; visualizes ride distribution across locations to enable quick, data-driven decision-making.',
     lang: 'Tableau', langColor: '#E97627',
     stars: 3,
-    demo: { label: 'View Dashboard', url: 'https://public.tableau.com/views/AmazonElectronicsMarketIntelligenceDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link' },
+    demos: [{ label: 'View Dashboard', url: 'https://public.tableau.com/app/profile/dikshantjangra/viz/UberAnalysisDashboard_17774044073330/Univariateanalysis?publish=yes' }],
   },
 ];
 
@@ -66,11 +71,11 @@ export default function PinnedProjects() {
               {p.forks > 0 && (
                 <span><ForkIcon /> {p.forks}</span>
               )}
-              {p.demo && (
-                <a className="live-badge" href={p.demo.url} target="_blank" rel="noopener noreferrer">
-                  <GoRocket style={{ marginRight: '4px' }} /> {p.demo.label}
+              {p.demos?.map((d) => (
+                <a key={d.label} className="live-badge" href={d.url} target="_blank" rel="noopener noreferrer">
+                  <GoRocket style={{ marginRight: '4px' }} /> {d.label}
                 </a>
-              )}
+              ))}
             </div>
           </div>
         ))}
