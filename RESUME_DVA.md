@@ -1,7 +1,7 @@
-# Dikshant Jangra
+# Deepanshu
 
-+91 8950625090 | dikshant.jangra2024@nst.rishihood.edu.in
-[LinkedIn](https://www.linkedin.com/in/dikshantjangra/) | [GitHub](https://github.com/DikshantJangra) | [Portfolio](https://dikshantjangra.me) | [Tableau Public](https://public.tableau.com/app/profile/dikshantjangra)
++91 8950625090 | deepanshu.sharma2024@nst.rishihood.edu.in
+[LinkedIn](https://www.linkedin.com/in/deepanshu-sharma425/) | [GitHub](https://github.com/deepanshu-sharma425) | [Portfolio](https://deepanshu-sharma425.me) | [Tableau Public](https://public.tableau.com/app/profile/deepanshu-sharma425)
 
 ---
 
@@ -24,22 +24,22 @@ Data & Visual Analytics enthusiast with hands-on experience building end-to-end 
 
 ## TECHNICAL PROJECTS
 
-**Amazon Sales Intelligence — Tableau Market Intelligence Dashboard** | [Tableau Public](https://public.tableau.com/app/profile/dikshant.jangra)
+**Amazon Sales Intelligence — Tableau Market Intelligence Dashboard** | [Tableau Public](https://public.tableau.com/app/profile/deepanshu-sharma425)
 - Designed and published an end-to-end Tableau dashboard performing KPI analysis and multi-dimensional trend analysis on Amazon sales data
 - Built calculated fields and filters to surface revenue trends, category-level performance, and regional breakdowns for actionable business insights
 - Applied data storytelling principles — clear chart selection, color hierarchy, and annotation — to make insights scannable in under 30 seconds
 - Demonstrated proficiency in connecting, transforming, and visualizing structured retail data entirely within Tableau
 
-**CleanThisData — Advanced Excel Data Cleaning & Analytics** | [GitHub](https://github.com/DikshantJangra/CleanThisData)
+**CleanThisData — Advanced Excel Data Cleaning & Analytics** | [GitHub](https://github.com/deepanshu-sharma425/CleanThisData)
 - Built a comprehensive Excel-based data cleaning and analytics pipeline handling complex transformations including deduplication, null imputation, type normalization, and outlier detection
 - Developed multi-layer dashboards with pivot tables, slicers, and conditional formatting to surface KPIs and trend summaries from raw, unstructured datasets
 - Documented a repeatable data cleaning methodology applicable to real-world messy data scenarios in business and research contexts
 
-**DVA-Oriented Portfolio** | [Live](https://dikshantjangra.me) | [GitHub](https://github.com/DikshantJangra/dvaOrientedPortfolio)
+**DVA-Oriented Portfolio** | [Live](https://deepanshu-sharma425.me) | [GitHub](https://github.com/deepanshu-sharma425/dvaOrientedPortfolio)
 - Built a GitHub-profile-style data portfolio in React with zero external chart libraries — SVG contribution heatmap (52×7 grid) and animated CSS bar charts from scratch
 - Implemented GitHub Dark Theme design system with smooth load animations and fully responsive layout
 
-**HopeRxPharma — Open Source Pharmacy Management SaaS** | [GitHub](https://github.com/DikshantJangra/HopeRxPharma)
+**HopeRxPharma — Open Source Pharmacy Management SaaS** | [GitHub](https://github.com/deepanshu-sharma425/HopeRxPharma)
 - Full-stack SaaS platform (React, Next.js, PostgreSQL, Express.js) actively used by pharmacists; implemented data dashboards for inventory and sales tracking
 
 ---

@@ -4,11 +4,11 @@ import { LocationIcon, LinkIcon, GHIcon, LCIcon, LinkedInIcon, TableauIcon, Star
 const skills = ['Python','SQL (BigQuery)','Tableau','Power BI','Looker Studio','Pandas','NumPy','Excel','Statistical Analysis','EDA','React','Node.js'];
 
 const links = [
-  { icon: <LinkIcon />, label: 'https://dikshantjangra.me', href: 'https://dikshantjangra.me' },
-  { icon: <LinkedInIcon />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/dikshantjangra/' },
-  { icon: <GHIcon />, label: 'DikshantJangra', href: 'https://github.com/DikshantJangra' },
-  { icon: <TableauIcon />, label: 'Tableau Public', href: 'https://public.tableau.com/app/profile/dikshantjangra/vizzes' },
-  { icon: <LCIcon />, label: 'LeetCode', href: 'https://leetcode.com/u/DikshantJangra' },
+  { icon: <LinkIcon />, label: 'https://deepanshu-sharma425.me', href: 'https://deepanshu-sharma425.me' },
+  { icon: <LinkedInIcon />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/deepanshu-sharma425/' },
+  { icon: <GHIcon />, label: 'deepanshu-sharma425', href: 'https://github.com/deepanshu-sharma425' },
+  { icon: <TableauIcon />, label: 'Tableau Public', href: 'https://public.tableau.com/app/profile/deepanshu-sharma425/vizzes' },
+  { icon: <LCIcon />, label: 'LeetCode', href: 'https://leetcode.com/u/deepanshu-sharma425' },
 ];
 
 export default function Sidebar() {
@@ -17,12 +17,12 @@ export default function Sidebar() {
       <div className="avatar-container">
         <img
           className="avatar"
-          src="https://github.com/DikshantJangra.png"
-          alt="Dikshant Jangra"
+          src="https://github.com/deepanshu-sharma425.png"
+          alt="Deepanshu"
         />
       </div>
-      <div className="name">Dikshant Jangra</div>
-      <div className="username">@DikshantJangra</div>
+      <div className="name">Deepanshu</div>
+      <div className="username">@deepanshu-sharma425</div>
       <p className="bio">
         Data Visualization Analyst & Full-Stack Developer | Python, Tableau, SQL | Transforming complex data into actionable insights.
       </p>

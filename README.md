@@ -2,15 +2,15 @@
 
 ### A GitHub-Profile-Style Portfolio for Data & Visual Analytics
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://dikshantjangra.me)
-[![GitHub](https://img.shields.io/badge/GitHub-DikshantJangra-181717?style=for-the-badge&logo=github)](https://github.com/DikshantJangra)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dikshantjangra/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-350+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DikshantJangra)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://deepanshu-sharma425.me)
+[![GitHub](https://img.shields.io/badge/GitHub-deepanshu--sharma425-181717?style=for-the-badge&logo=github)](https://github.com/deepanshu-sharma425)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepanshu-sharma425/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-350+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/deepanshu-sharma425)
 
 <p align="center">
-  <img src="https://github.com/DikshantJangra.png" width="120" style="border-radius:50%" alt="Dikshant Jangra"/>
+  <img src="https://github.com/deepanshu-sharma425.png" width="120" style="border-radius:50%" alt="Deepanshu"/>
   <br/>
-  <strong>Dikshant Jangra</strong> · CS & AI Major @ Newton School of Technology
+  <strong>Deepanshu</strong> · CS & AI Major @ Newton School of Technology
 </p>
 
 ---
@@ -87,7 +87,7 @@ src/
 
 ```bash
 # Clone the repo
-git clone https://github.com/DikshantJangra/dvaOrientedPortfolio.git
+git clone https://github.com/deepanshu-sharma425/dvaOrientedPortfolio.git
 cd dvaOrientedPortfolio
 
 # Install dependencies
@@ -105,10 +105,10 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 | Project | Description | Tech |
 |---|---|---|
-| [**CleanThisData**](https://github.com/DikshantJangra/CleanThisData) | Advanced Excel Data Cleaning & Analytics — Complex transformation & Dashboards | Excel, Dashboards |
+| [**CleanThisData**](https://github.com/deepanshu-sharma425/CleanThisData) | Advanced Excel Data Cleaning & Analytics — Complex transformation & Dashboards | Excel, Dashboards |
 | [**PitLane**](https://github.com/Harsh-sh7/Section_E_Group_3_PitLane) | Intelligent agentic system combining solar energy forecasting with a LangGraph multi-node workflow and RAG-based decision-making to optimize grid operations. Deployed on Streamlit. | Python, LangGraph, Streamlit |
-| [**StudentHealthAssessment360**](https://github.com/DikshantJangra/StudentHealthAssessment360) | Pandas & NumPy EDA pipeline & data cleaning for Agentic AI | Python, Pandas, NumPy |
-| [**Amazon-Sales-Intelligence**](https://public.tableau.com/app/profile/dikshant.jangra) | Tableau Market Intelligence Dashboard - KPI & Trend Analysis | Tableau, Data Storytelling |
+| [**StudentHealthAssessment360**](https://github.com/deepanshu-sharma425/StudentHealthAssessment360) | Pandas & NumPy EDA pipeline & data cleaning for Agentic AI | Python, Pandas, NumPy |
+| [**Amazon-Sales-Intelligence**](https://public.tableau.com/app/profile/deepanshu-sharma425) | Tableau Market Intelligence Dashboard - KPI & Trend Analysis | Tableau, Data Storytelling |
 
 ---
 
@@ -147,11 +147,11 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/DikshantJangra"><strong>Dikshant Jangra</strong></a>
+  Built with ❤️ by <a href="https://github.com/deepanshu-sharma425"><strong>Deepanshu</strong></a>
   <br/>
   <em>CS & AI Major @ Newton School of Technology</em>
   <br/><br/>
-  <a href="https://github.com/DikshantJangra/dvaOrientedPortfolio">
-    <img src="https://img.shields.io/github/stars/DikshantJangra/dvaOrientedPortfolio?style=social" alt="Stars"/>
+  <a href="https://github.com/deepanshu-sharma425/dvaOrientedPortfolio">
+    <img src="https://img.shields.io/github/stars/deepanshu-sharma425/dvaOrientedPortfolio?style=social" alt="Stars"/>
   </a>
 </p>

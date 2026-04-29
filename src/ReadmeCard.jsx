@@ -10,7 +10,7 @@ export default function ReadmeCard() {
       </h2>
       <div className="readme-card">
         <h3 style={{ display: 'flex', alignItems: 'center' }}>
-          Hi there <HiHand style={{ marginLeft: '8px', marginRight: '8px', color: '#ffcc33' }} /> I'm Dikshant Jangra
+          Hi there <HiHand style={{ marginLeft: '8px', marginRight: '8px', color: '#ffcc33' }} /> I'm Deepanshu
         </h3>
         <p><strong>Data Visualization Analyst & Full-Stack Developer</strong></p>
         <ul>
