@@ -27,7 +27,7 @@ const pins = [
   },
   {
     name: 'Uber-Analysis-Dashboard',
-    url: 'https://github.com/deepanshu-sharma425/Uber-Analysis-Dashboard',
+    url: 'https://public.tableau.com/app/profile/deepanshu.sharma4570/viz/uberanalysis_17774672913290/Univariateanalysis',
     desc: 'An interactive Tableau dashboard analyzing Uber ride data — monitors trip demand, revenue trends, and peak usage hours; visualizes ride distribution across locations to enable quick, data-driven decision-making.',
     lang: 'Tableau', langColor: '#E97627',
     stars: 3,
