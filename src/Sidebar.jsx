@@ -1,14 +1,14 @@
 import React from 'react';
 import { LocationIcon, LinkIcon, GHIcon, LCIcon, LinkedInIcon, TableauIcon, StarIcon, ForkIcon, RepoIcon } from './Icons';
 
-const skills = ['Python','SQL (BigQuery)','Tableau','Power BI','Looker Studio','Pandas','NumPy','Excel','Statistical Analysis','EDA','React','Node.js'];
+const skills = ['Python', 'SQL (BigQuery)', 'Tableau', 'Power BI', 'Looker Studio', 'Pandas', 'NumPy', 'Excel', 'Statistical Analysis', 'EDA', 'React', 'Node.js'];
 
 const links = [
   { icon: <LinkIcon />, label: 'https://deepanshu-sharma425.me', href: 'https://deepanshu-sharma425.me' },
-  { icon: <LinkedInIcon />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/deepanshu-sharma425/' },
+  { icon: <LinkedInIcon />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/deepanshu-sharma-57a225281?utm_source=share_via&utm_content=profile&utm_medium=member_android' },
   { icon: <GHIcon />, label: 'deepanshu-sharma425', href: 'https://github.com/deepanshu-sharma425' },
-  { icon: <TableauIcon />, label: 'Tableau Public', href: 'https://public.tableau.com/app/profile/deepanshu-sharma425/vizzes' },
-  { icon: <LCIcon />, label: 'LeetCode', href: 'https://leetcode.com/u/deepanshu-sharma425' },
+  { icon: <TableauIcon />, label: 'Tableau Public', href: 'https://public.tableau.com/app/profile/deepanshu.sharma4570/vizzes' },
+  { icon: <LCIcon />, label: 'LeetCode', href: 'https://leetcode.com/u/deepanshusharma26/' },
 ];
 
 export default function Sidebar() {
